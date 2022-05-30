@@ -1,4 +1,4 @@
-# forecastProject
+# Weather Forecast Serbia
 Weather forecast for cities in Serbia
 
 
