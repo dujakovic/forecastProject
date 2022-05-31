@@ -5,3 +5,10 @@ const buttonCacak = document.getElementById('btn4');
 const buttonPristina = document.getElementById('btn5');
 const buttonNis = document.getElementById('btn6');
 const buttonKragujevac = document.getElementById('btn7');
+
+class Forecast{
+
+  // set weather(arg){}
+  // get weather(){}
+
+}
